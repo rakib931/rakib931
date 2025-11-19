@@ -24,7 +24,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 ## 🌟 About Me  
 
-Hi, I'm **Rakib hossain**, a passionate **Merin Steak Developer** from Bangladesh 🇧🇩.  
+Hi, I'm **Rakib Hossain**, a passionate **Merin Steak Developer** from Bangladesh 🇧🇩.  
 I love creating clean, modern, and responsive web applications using the latest tools and technologies.
 
 - 🚀 Specializing in **React, JavaScript & TailwindCSS**
