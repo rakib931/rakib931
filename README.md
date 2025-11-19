@@ -1,16 +1,14 @@
 
-<p align="left">
-</p>
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<p align="center">
+  <img src="https://i.ibb.co/60VvMxjq/mern.png" alt="Nafi Mahmud Bukhari Banner" />
+</p> 
 
 ###
 
 <h1 align="center">Hi 👋, I'm Rakib Hossain</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+JavaScript+%7C+TailwindCSS;Crafting+Modern+Web+Experiences;Turning+Ideas+Into+Beautiful+UIs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Merin+Steak+Developer;React+%7C+JavaScript+%7C+TailwindCSS;Crafting+Modern+Web+Experiences;Turning+Ideas+Into+Beautiful+UIs" />
 </p>
 
 <p align="center">
